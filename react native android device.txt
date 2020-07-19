@@ -1,0 +1,4 @@
+react-native run-android --deviceId=13360504
+
+
+react-native run-android --deviceId=13360504 --no-jetifier 
